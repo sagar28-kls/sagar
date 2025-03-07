@@ -16,4 +16,4 @@ semester VARCHAR(10), grade DECIMAL(3, 2)
 
 CREATE TABLE finance_fees ( fee_id INT PRIMARY KEY, student_id INT,
 amount DECIMAL(10, 2), payment_date DATE
-); 
+); create table
